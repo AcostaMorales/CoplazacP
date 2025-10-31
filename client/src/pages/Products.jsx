@@ -25,17 +25,18 @@ const catalogo = {
     { id: 'd2', title: 'Toalla shop towels',       image: 'https://res.cloudinary.com/dbebikryr/image/upload/v1761938811/toalla-shop-towels-2_eihsjf.png' },
     { id: 'd3', title: 'Toalla shop towels paquete con 10',        image: 'https://res.cloudinary.com/dbebikryr/image/upload/v1761938809/toalla-shop-towels_tmxaoh.png' },
     { id: 'd4', title: 'Disco pulidor"',        image: 'https://res.cloudinary.com/dbebikryr/image/upload/v1761938672/disco-pulidor_qtpo1y.png' },
-    /*
-    { id: 'd5', title: 'Plato 9"',        image: '/assets/plato.jpg' },
-    { id: 'd6', title: 'Plato 9"',        image: '/assets/plato.jpg' },
-    { id: 'd7', title: 'Plato 9"',        image: '/assets/plato.jpg' },
-    { id: 'd8', title: 'Plato 9"',        image: '/assets/plato.jpg' },
-    { id: 'd9', title: 'Plato 9"',        image: '/assets/plato.jpg' },
-    { id: 'd10', title: 'Plato 9"',        image: '/assets/plato.jpg' },
-    { id: 'd11', title: 'Plato 9"',        image: '/assets/plato.jpg' },
-    { id: 'd12', title: 'Plato 9"',        image: '/assets/plato.jpg' },
-    { id: 'd13', title: 'Plato 9"',        image: '/assets/plato.jpg' },
-    */
+    
+    { id: 'd5', title: 'Dispensador de papel jumbo',        image: 'https://res.cloudinary.com/dbebikryr/image/upload/v1761938667/DV039_acqe9w.png' },
+    { id: 'd6', title: 'Cesto con ruedas"',        image: 'https://res.cloudinary.com/dbebikryr/image/upload/v1761938665/cesto-ruedas_mpdy9o.png' },
+    { id: 'd7', title: 'Dispensador de toallas interdobladas',        image: 'https://res.cloudinary.com/dbebikryr/image/upload/v1761938663/DV041_l66fip.jpg' },
+    { id: 'd8', title: 'Dispensador de toallas en rollo',        image: 'https://res.cloudinary.com/dbebikryr/image/upload/v1761938658/DV013_cepmkj.jpg' },
+    { id: 'd9', title: 'Dispensador de toallas interdobladas DV046',        image: 'https://res.cloudinary.com/dbebikryr/image/upload/v1761938656/DV046_jltcou.jpg' },
+    { id: 'd10', title: 'Dispensador de papel hiénico',        image: 'https://res.cloudinary.com/dbebikryr/image/upload/v1761938653/DV039_hgrtrm.jpg' },
+    { id: 'd11', title: 'Carro de limpieza',        image: 'https://res.cloudinary.com/dbebikryr/image/upload/v1761938651/JA071_zwqxg7.jpg' },
+    { id: 'd12', title: 'Señal de piso mojado',        image: 'https://res.cloudinary.com/dbebikryr/image/upload/v1761938649/JA045_mfmkmx.jpg' },
+    { id: 'd13', title: 'Dispensador de jabón DV012',        image: 'https://res.cloudinary.com/dbebikryr/image/upload/v1761938646/DV012_ft78ub.jpg' },
+    { id: 'd14', title: 'Dispensador de jabón DV018',        image: 'https://res.cloudinary.com/dbebikryr/image/upload/v1761938644/DV018_zrx1gs.jpg' },
+    { id: 'd15', title: 'Dispensador de jabón DV006',        image: 'https://res.cloudinary.com/dbebikryr/image/upload/v1761938603/DV006_fwodig.jpg' },
 
   ],
   jerceria: [
