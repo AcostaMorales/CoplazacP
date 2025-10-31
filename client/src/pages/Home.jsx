@@ -10,7 +10,7 @@ export default function Main() {
   const items = [
     { id: 1, title: 'Desechables',       image: 'https://res.cloudinary.com/dbebikryr/image/upload/v1761937961/ImagenCategoria_1_opv2rn.png',       to: '/productos/desechables' },
     { id: 2, title: 'Industrial',  image: 'https://res.cloudinary.com/dbebikryr/image/upload/v1761941035/PRODUCTOS_2_jb7eiu.png',  to: '/productos/industrial' },
-    { id: 3, title: 'Jarceria',     image: 'https://res.cloudinary.com/dbebikryr/image/upload/v1761939227/Copia_de_TRAPEADORES_3_1_gl9z9i.png',     to: '/' },
+    { id: 3, title: 'Jarceria',     image: 'https://res.cloudinary.com/dbebikryr/image/upload/v1761939227/Copia_de_TRAPEADORES_3_1_gl9z9i.png',     to: '/productos/jarceria' },
     { id: 4, title: 'Papel Insitucional (Kimberly-Clark)',  image: 'https://res.cloudinary.com/dbebikryr/image/upload/v1761939386/Copia_de_SANITAS_1_txyepw.png',       to: '/' },
     { id: 5, title: 'Papel Insitucional (PSF)',  image: 'https://res.cloudinary.com/dbebikryr/image/upload/v1761939497/2_qz3jki.png',  to: '/' },
     { id: 6, title: 'Plasticos',  image: 'https://res.cloudinary.com/dbebikryr/image/upload/v1761940248/plasticos_wrduh3.png',  to: '/' },
