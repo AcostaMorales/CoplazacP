@@ -12,16 +12,31 @@ const catalogo = {
     //bolsas negras
     { id: 'bn1', title: 'Bolsas negras 60x90',     image: 'https://res.cloudinary.com/dbebikryr/image/upload/v1761938013/bolsa_para_basufra_60x90_pexc1h.png' },
     { id: 'bn2', title: 'Bolsas negras 120x90',     image: 'https://res.cloudinary.com/dbebikryr/image/upload/v1761938012/bolsa_para_basura_120x90_jhhapd.png' },
-    { id: 'bn1', title: 'Bolsas negras jumbo',     image: 'https://res.cloudinary.com/dbebikryr/image/upload/v1761938011/bolsa_jumbo_j8gifv.png' },
-    { id: 'bn1', title: 'Bolsas negras grandes',     image: 'https://res.cloudinary.com/dbebikryr/image/upload/v1761938010/bolsa_grande_mxy6x2.png' },
-    { id: 'bn1', title: 'Bolsas negras mediana',     image: 'https://res.cloudinary.com/dbebikryr/image/upload/v1761938007/bolsa_mediana_rhtnnh.png' },
+    { id: 'bn3', title: 'Bolsas negras 50x70',     image: 'https://res.cloudinary.com/dbebikryr/image/upload/v1761938005/bolsa_para_basura_50x70_slcept.png' },
+    { id: 'bn4', title: 'Bolsas negras jumbo',     image: 'https://res.cloudinary.com/dbebikryr/image/upload/v1761938011/bolsa_jumbo_j8gifv.png' },
+    { id: 'bn5', title: 'Bolsas negras grandes',     image: 'https://res.cloudinary.com/dbebikryr/image/upload/v1761938010/bolsa_grande_mxy6x2.png' },
+    { id: 'bn6', title: 'Bolsas negras mediana',     image: 'https://res.cloudinary.com/dbebikryr/image/upload/v1761938007/bolsa_mediana_rhtnnh.png' },
+    { id: 'bn7', title: 'Bolsas negras chica',     image: 'https://res.cloudinary.com/dbebikryr/image/upload/v1761938002/bolsa_ch_hv62gp.png' },
     
 
   ],
   industrial: [
-    { id: 'd1', title: 'Vaso 12 oz',      image: '/assets/vaso12.jpg' },
-    { id: 'd2', title: 'Tapa domo',       image: '/assets/tapa.jpg' },
-    { id: 'd3', title: 'Plato 9"',        image: '/assets/plato.jpg' },
+    { id: 'd1', title: 'Cubeta con exprimidor',      image: 'https://res.cloudinary.com/dbebikryr/image/upload/v1761938855/Copia_de_CUBETA_CON_EXPRIMIDOR_1_m7jhtg.png' },
+    { id: 'd2', title: 'Toalla shop towels',       image: 'https://res.cloudinary.com/dbebikryr/image/upload/v1761938811/toalla-shop-towels-2_eihsjf.png' },
+    { id: 'd3', title: 'Toalla shop towels paquete con 10',        image: 'https://res.cloudinary.com/dbebikryr/image/upload/v1761938809/toalla-shop-towels_tmxaoh.png' },
+    { id: 'd4', title: 'Disco pulidor"',        image: 'https://res.cloudinary.com/dbebikryr/image/upload/v1761938672/disco-pulidor_qtpo1y.png' },
+    /*
+    { id: 'd5', title: 'Plato 9"',        image: '/assets/plato.jpg' },
+    { id: 'd6', title: 'Plato 9"',        image: '/assets/plato.jpg' },
+    { id: 'd7', title: 'Plato 9"',        image: '/assets/plato.jpg' },
+    { id: 'd8', title: 'Plato 9"',        image: '/assets/plato.jpg' },
+    { id: 'd9', title: 'Plato 9"',        image: '/assets/plato.jpg' },
+    { id: 'd10', title: 'Plato 9"',        image: '/assets/plato.jpg' },
+    { id: 'd11', title: 'Plato 9"',        image: '/assets/plato.jpg' },
+    { id: 'd12', title: 'Plato 9"',        image: '/assets/plato.jpg' },
+    { id: 'd13', title: 'Plato 9"',        image: '/assets/plato.jpg' },
+    */
+
   ],
   jerceria: [
     { id: 'l1', title: 'Cloro 1L',        image: '/assets/cloro.jpg' },
