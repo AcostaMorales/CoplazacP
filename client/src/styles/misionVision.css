@@ -1,7 +1,8 @@
 /* ===== Misión y Visión - Estilo profesional y minimalista ===== */
 
 .mision,
-.vision {
+.vision,
+.objetivo {
   background-color: #ffffff;
   border: 1px solid #e5e7eb;
   border-radius: 16px;
@@ -13,14 +14,16 @@
 
 /* Suaviza al pasar el cursor (efecto elegante en desktop) */
 .mision:hover,
-.vision:hover {
+.vision:hover,
+.objetivo:hover {
   transform: translateY(-2px);
   box-shadow: 0 6px 14px rgba(15, 23, 42, 0.08);
 }
 
 /* Título */
 .mision::before,
-.vision::before {
+.vision::before,
+.objetivo::before {
   display: block;
   font-size: 1.2rem;
   font-weight: 800;
@@ -39,10 +42,14 @@
 .vision::before {
   content: "Visión";
 }
+.objetivo::before {
+  content: "Objetivo";
+}
 
 /* Texto */
 .mision p,
-.vision p {
+.vision p,
+.objetivo p {
   font-size: 0.95rem;
   line-height: 1.6;
   color: #334155; /* gris oscuro */
@@ -53,16 +60,19 @@
 /* Adaptación móvil */
 @media (max-width: 600px) {
   .mision,
-  .vision {
+  .vision 
+  .objetivo{
     padding: 16px 14px;
     border-radius: 12px;
   }
   .mision::before,
-  .vision::before {
+  .vision::before,
+  .objetivo::before {
     font-size: 1.1rem;
   }
   .mision p,
-  .vision p {
+  .vision p,
+  .objetivo p {
     font-size: 0.92rem;
     line-height: 1.5;
   }

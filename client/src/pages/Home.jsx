@@ -5,7 +5,8 @@ export default function Main() {
   // Imagen promo (cámbiala por la real)
   const promoUrl = 'https://res.cloudinary.com/dbebikryr/image/upload/v1761937306/promo_m47vy5.png'
   const parrafomision = 'Proporcionar soluciones integrales en productos de limpieza con altos estándares de calidad, precios competitivos y un servicio confiable, contribuyendo al bienestar de nuestros clientes mediante atención profesional y entregas eficientes en toda la región.';
-
+  const parrafovision ='Consolidarnos como la empresa líder en distribución de productos de limpieza en Zacatecas y estados vecinos, distinguiéndonos por nuestra excelencia operativa, innovación constante y relaciones duraderas con nuestros clientes.';
+  const parrafoobjetivo ='Ampliar nuestra cobertura comercial y fortalecer nuestra presencia regional mediante estrategias de distribución eficientes, alianzas estratégicas y la mejora continua en la calidad de nuestros productos y servicios.';
   const items = [
     { id: 1, title: 'Desechables',       image: 'https://res.cloudinary.com/dbebikryr/image/upload/v1761937961/ImagenCategoria_1_opv2rn.png',       to: '/productos/desechables' },
     { id: 2, title: 'Industrial',  image: 'https://res.cloudinary.com/dbebikryr/image/upload/v1761941035/PRODUCTOS_2_jb7eiu.png',  to: '/productos/industrial' },
@@ -27,8 +28,11 @@ export default function Main() {
         <p>{parrafomision}</p>
       </div>
       <div className="vision">
-        <p>Consolidarnos como la empresa líder en distribución de productos de limpieza en Zacatecas y estados vecinos, distinguiéndonos por nuestra excelencia operativa, innovación constante y relaciones duraderas con nuestros clientes.</p>
-    </div>
+        <p>{parrafovision}</p>
+      </div>
+      <div className="objetivo">
+        <p>{parrafoobjetivo}</p>
+      </div>
 
       <section className="grid-2">
         {items.map(it => (
