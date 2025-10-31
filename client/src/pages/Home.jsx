@@ -5,7 +5,7 @@ export default function Main() {
   const promoUrl = 'https://res.cloudinary.com/dbebikryr/image/upload/v1761937306/promo_m47vy5.png'
 
   const items = [
-    { id: 1, title: 'Desechables',       image: 'https://res.cloudinary.com/dbebikryr/image/upload/v1761937961/ImagenCategoria_1_opv2rn.png',       to: '/' },
+    { id: 1, title: 'Desechables',       image: 'https://res.cloudinary.com/dbebikryr/image/upload/v1761937961/ImagenCategoria_1_opv2rn.png',       to: '/productos/desechables' },
     { id: 2, title: 'Industrial',  image: 'https://res.cloudinary.com/dbebikryr/image/upload/v1761941035/PRODUCTOS_2_jb7eiu.png',  to: '/' },
     { id: 3, title: 'Jarceria',     image: 'https://res.cloudinary.com/dbebikryr/image/upload/v1761939227/Copia_de_TRAPEADORES_3_1_gl9z9i.png',     to: '/' },
     { id: 4, title: 'Papel Insitucional (Kimberly-Clark)',  image: 'https://res.cloudinary.com/dbebikryr/image/upload/v1761939386/Copia_de_SANITAS_1_txyepw.png',       to: '/' },
