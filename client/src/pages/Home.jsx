@@ -6,9 +6,14 @@ export default function Main() {
 
   const items = [
     { id: 1, title: 'Desechables',       image: 'https://res.cloudinary.com/dbebikryr/image/upload/v1761937961/ImagenCategoria_1_opv2rn.png',       to: '/' },
-    { id: 2, title: 'Desechables',  image: '/assets/cat-desechables.jpg',  to: '/' },
-    { id: 3, title: 'Limpieza',     image: '/assets/cat-limpieza.jpg',     to: '/' },
-    { id: 4, title: 'Promociones',  image: '/assets/cat-promos.jpg',       to: '/' }
+    { id: 2, title: 'Industrial',  image: 'https://res.cloudinary.com/dbebikryr/image/upload/v1761941035/PRODUCTOS_2_jb7eiu.png',  to: '/' },
+    { id: 3, title: 'Jarceria',     image: 'https://res.cloudinary.com/dbebikryr/image/upload/v1761939227/Copia_de_TRAPEADORES_3_1_gl9z9i.png',     to: '/' },
+    { id: 4, title: 'Papel Insitucional (Kimberly-Clark)',  image: 'https://res.cloudinary.com/dbebikryr/image/upload/v1761939386/Copia_de_SANITAS_1_txyepw.png',       to: '/' },
+    { id: 5, title: 'Papel Insitucional (PSF)',  image: 'https://res.cloudinary.com/dbebikryr/image/upload/v1761939497/2_qz3jki.png',  to: '/' },
+    { id: 6, title: 'Plasticos',  image: 'https://res.cloudinary.com/dbebikryr/image/upload/v1761940248/plasticos_wrduh3.png',  to: '/' },
+    { id: 7, title: 'Productos Reconocidos',  image: 'https://res.cloudinary.com/dbebikryr/image/upload/v1761940773/productos_xscvjv.png',to: '/' },
+    { id: 8, title: 'Quimicos',  image: 'https://res.cloudinary.com/dbebikryr/image/upload/v1761941171/Copia_de_SPARK_BUBBLES_CEREZA_1_nzzkg9.png',       to: '/' },
+
   ]
 
   return (
